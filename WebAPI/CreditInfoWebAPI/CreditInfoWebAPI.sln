@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditInfoWebAPI", "CreditInfoWebAPI\CreditInfoWebAPI.csproj", "{5569ED1A-6B93-4C27-9DDC-6DC5CC2A478B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5569ED1A-6B93-4C27-9DDC-6DC5CC2A478B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5569ED1A-6B93-4C27-9DDC-6DC5CC2A478B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5569ED1A-6B93-4C27-9DDC-6DC5CC2A478B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5569ED1A-6B93-4C27-9DDC-6DC5CC2A478B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610F6E5D-6DB9-4C33-9D2C-AF208D11C4FE}
+	EndGlobalSection
+EndGlobal
